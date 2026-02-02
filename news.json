@@ -1,27 +1,27 @@
 [
   {
-    "title": "Real Madrid VS Villarreal",
-    "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches@main/RmaVsVia.jpg",
-    "type": "Match Day"
+    "title": "Arsenal VS Chelsea",
+    "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches/matcheslogo.jpg",
+    "type": "EFL Cup Semi-Final"
   },
   {
-    "title": "Barcelona VS Elche",
-    "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches@main/BarcaVsElc.png",
-    "type": "Match Day"
+    "title": "Bologna VS AC Milan",
+    "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches/matcheslogo.jpg",
+    "type": "Serie A"
   },
   {
-    "title": "Liverpool VS Newcastle",
-    "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches@main/LiverVsNew.jpg",
-    "type": "Match Day"
+    "title": "Albacete VS Barcelona",
+    "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches/matcheslogo.jpg",
+    "type": "Copa del Rey"
   },
   {
-    "title": "Chelsea VS West Ham",
-    "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches@main/CheVsWest.jpeg",
-    "type": "Match Day"
+    "title": "Bayer Leverkusen VS St. Pauli",
+    "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches/matcheslogo.jpg",
+    "type": "DFB Pokal"
   },
   {
-    "title": "Arsenal VS Leeds",
-    "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches@main/ArcVsLeeds.webp",
-    "type": "Match Day"
+    "title": "Portsmouth VS Ipswich",
+    "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches/matcheslogo.jpg",
+    "type": "Championship"
   }
 ]
