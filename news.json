@@ -2,31 +2,31 @@
   {
     "title": "Arsenal VS Chelsea",
     "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches/matcheslogo.jpg",
-    "type": "EFL Cup Semi-Final",
+    "text": "EFL Cup Semi-Final",
     "timestamp": 1770048925
   },
   {
     "title": "Bologna VS AC Milan",
     "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches/matcheslogo.jpg",
-    "type": "Serie A",
+    "text": "Serie A",
     "timestamp": 1770048925
   },
   {
     "title": "Albacete VS Barcelona",
     "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches/matcheslogo.jpg",
-    "type": "Copa del Rey",
+    "text": "Copa del Rey",
     "timestamp": 1770048925
   },
   {
     "title": "Bayer Leverkusen VS St. Pauli",
     "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches/matcheslogo.jpg",
-    "type": "DFB Pokal",
+    "text": "DFB Pokal",
     "timestamp": 1770048925
   },
   {
     "title": "Portsmouth VS Ipswich",
     "image": "https://cdn.jsdelivr.net/gh/shueibtvapp-ai/Matches/matcheslogo.jpg",
-    "type": "Championship",
+    "text": "Championship",
     "timestamp": 1770048925
   }
 ]
